@@ -1,0 +1,97 @@
+{
+  "brand": {
+    "name": "WorkSuite Pro",
+    "tagline": "Professional tools for remote workers.",
+    "headline": "Everything you need to work remotely.",
+    "summary": "WorkSuite Pro is a set of desk tools for people who do the job away from an office. The sheets are already formatted, the timesheet builds itself, the shift note is one page, and files go out locked. Buy the tool that matches the work, or take the full set once.",
+    "supportEmail": "support@worksute-kit.online",
+    "invoiceNote": "Invoices are sent within 24 business hours."
+  },
+  "tools": [
+    {
+      "id": "suite",
+      "name": "WorkSuite Pro",
+      "price": 79,
+      "forSale": true,
+      "badge": "Full set",
+      "color": "#1e3a5f",
+      "summary": "Every tool on this page, in one purchase.",
+      "description": "The full desk for remote work. You get the entry sheets, the timesheet, the encrypted file drop, the shift note, and the handoff checklists. Pay once and keep them. There is no monthly plan to cancel and no seat count to manage.",
+      "points": [
+        "Data Entry Templates, Time Tracking, Secure File Transfer, Shift Notes, and Handoff Checklists",
+        "Lifetime access on your own computer",
+        "One invoice, then you are done"
+      ]
+    },
+    {
+      "id": "templates",
+      "name": "Data Entry Templates",
+      "price": 29,
+      "forSale": true,
+      "color": "#0f766e",
+      "summary": "Sheets that are ready before the first row is typed.",
+      "description": "Pre-formatted spreadsheets for the entry work that shows up every week: client lists, order logs, inventory counts, and status sheets. The columns, example rows, and simple checks are already there, so a new batch does not start from a blank grid.",
+      "points": [
+        "Templates for lists, logs, counts, and status sheets",
+        "Example rows that keep the format consistent",
+        "Opens in the spreadsheet you already use"
+      ]
+    },
+    {
+      "id": "time",
+      "name": "Time Tracking",
+      "price": 35,
+      "forSale": true,
+      "color": "#c2410c",
+      "summary": "A timesheet that records the day as it happens.",
+      "description": "Log hours as you work and export a timesheet when a client or a manager asks where the day went. Daily and weekly totals are already added. You do not rebuild the sheet from chat messages at the end of the week.",
+      "points": [
+        "Start and stop from the desk",
+        "Daily and weekly totals",
+        "Export a timesheet without retyping the week"
+      ]
+    },
+    {
+      "id": "transfer",
+      "name": "Secure File Transfer",
+      "price": null,
+      "forSale": false,
+      "color": "#6d28d9",
+      "summary": "Send a work file without emailing a password.",
+      "description": "Send and receive files with end-to-end encryption. The file is locked before it leaves your computer and unlocked by the person you addressed. Useful when the work product is a spreadsheet, a scan, or a folder that should not sit in a shared inbox.",
+      "points": [
+        "Encrypted send and receive",
+        "No shared inbox password",
+        "A record of what was sent and to whom"
+      ]
+    },
+    {
+      "id": "notes",
+      "name": "Shift Notes",
+      "price": null,
+      "forSale": false,
+      "color": "#b45309",
+      "summary": "One page for the person who works next.",
+      "description": "A short end-of-day note: what finished, what is waiting, and who needs it. The next person opens that page instead of scrolling back through chat to reconstruct the shift.",
+      "points": [
+        "One note per shift",
+        "Waiting work called out on its own",
+        "Written for the next person, not for a status meeting"
+      ]
+    },
+    {
+      "id": "handoff",
+      "name": "Handoff Checklists",
+      "price": null,
+      "forSale": false,
+      "color": "#0369a1",
+      "summary": "The same steps, even when the team is in different places.",
+      "description": "Step lists for work that has to happen the same way each time: opening a shift, closing a batch, or passing a client to someone else. Each step has a done state, so a handoff is a list instead of a memory.",
+      "points": [
+        "Reusable lists for opening, closing, and handoff",
+        "A clear done state on every step",
+        "Fewer missed steps when nobody is in the same room"
+      ]
+    }
+  ]
+}
